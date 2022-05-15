@@ -3,12 +3,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        brown: {
-          50: '#FCFBE4'
-        },
-        green: {
-          50: '#235823'
-        }
+        beige: '#FCFBE4',
+        lincolngreen: '#235823',
+        blackcoffee: '	#582323'
       }
     },
   },
